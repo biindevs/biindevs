@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bin-baz Akilan</h1>
+<h1 align="center">Hi, I'm Bin-baz Akilan</h1>
 <h3 align="center">A third-year student pursuing a degree in Computer Science.</h3>
 
 ### 🌱 I’m currently learning something
