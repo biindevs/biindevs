@@ -6,8 +6,8 @@
 ### 📫 How to reach me:
 - Gmail: bhinbazakilan325@gmail.com
 - Phone: 09261013618
-- Facebook: https://www.facebook.com/Bin.thoughtss/
-- Instagram: https://www.instagram.com/bin.akilan/
+- Facebook: https://www.facebook.com//biin.akilan
+- Instagram: https://www.instagram.com/bin.akilan
 
 
 
