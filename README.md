@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bin-baz Akilan</h1>
 <h3 align="center">A third-year student pursuing a degree in Computer Science.</h3>
 
-- 🌱 I'm Currenty Learning
-- ⚡ Fun fact **I hate Okra.**
+### 🌱 I’m currently learning something
+### 📫 How to reach me:
+- Gmail: bhinbazakilan325@gmail.com
+- Phone: 09261013618
+- Facebook: https://www.facebook.com/Bin.thoughtss/
+- Instagram: https://www.instagram.com/bin.akilan/
+
 
 
 <h3 align="left">Languages and Tools:</h3>
