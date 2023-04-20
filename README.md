@@ -2,6 +2,7 @@
 <h3 align="center">A third-year student pursuing a degree in Computer Science.</h3>
 
 ### 🌱 I’m currently learning something
+### 🥬 I hate okra
 ### 📫 How to reach me:
 - Gmail: bhinbazakilan325@gmail.com
 - Phone: 09261013618
