@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Bin-baz Akilan</h1>
-<h3 align="center">A hird-year Computer Science Student.</h3>
+<h3 align="center">A Third-year Computer Science Student.</h3>
 
 ### ⚡ I’m currently working on my thesis.
 ### 🥬 I hate okra
