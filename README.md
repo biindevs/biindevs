@@ -2,7 +2,7 @@
 <h3 align="center">A Third-year Computer Science Student.</h3>
 
 ### ⚡ I’m currently working on my thesis.
-### 🥬 I hate okra
+### 🥬 I hate okra.
 ### 📫 How to reach me:
 - Gmail: bhinbazakilan325@gmail.com
 - Phone: 09261013618
