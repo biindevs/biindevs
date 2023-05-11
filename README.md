@@ -1,13 +1,10 @@
 <h1 align="center">Hi, I'm Bin-baz Akilan</h1>
 <h3 align="center">A Third-year Computer Science Student.</h3>
 
-### ⚡ I’m currently working on my thesis.
-### 🥬 I hate okra.
+
 ### 📫 How to reach me:
-- Gmail: bhinbazakilan325@gmail.com
-- Phone: 09261013618
-- Facebook: https://www.facebook.com//biin.akilan
-- Instagram: https://www.instagram.com/bin.akilan
+<a href="mailto: bhinbazakilan325@gmail.com">
+<img src="https://img.shields.io/badge/-ronaldxdale%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a> <a href="https://www.linkedin.com/bin-baz/"><img src="https://img.shields.io/badge/ronaldxdale-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
 
 
 
