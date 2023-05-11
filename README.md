@@ -4,7 +4,7 @@
 
 ### 📫 How to reach me:
 <a href="mailto: bhinbazakilan325@gmail.com">
-<img src="https://img.shields.io/badge/-ronaldxdale%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a> <a href="https://www.linkedin.com/bin-baz/"><img src="https://img.shields.io/badge/ronaldxdale-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
+<img src="-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a> <a href="https://www.linkedin.com/bin-baz/"><img src="https://img.shields.io/badge/ronaldxdale-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
 
 
 
